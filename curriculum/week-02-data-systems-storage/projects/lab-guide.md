@@ -1,6 +1,4 @@
-```
 # 🧪 Week 2 Lab: Data Systems & Storage Solutions
-
 ---
 
 ## 📚 Overview
@@ -81,6 +79,4 @@ Compiler](https://www.programiz.com/sql/online-compiler)
 Theory](https://www.geeksforgeeks.org/sql-tutorial/)  
 - [Snowflake Free Trial](https://signup.snowflake.com/)  
 - [BigQuery Sandbox](https://console.cloud.google.com/bigquery)
-```
-
 
