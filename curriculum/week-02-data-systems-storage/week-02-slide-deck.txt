@@ -1,0 +1,64 @@
+📄 Week 2 Slide Deck – Data Systems & Storage Solutions
+
+---
+
+Slide 1: Welcome to Week 2
+🎓 Data Diva Academy: Data Systems & Storage Solutions  
+"Structure your data. Empower your pipeline."
+
+---
+
+Slide 2: What is an RDBMS?
+- Organizes data into structured tables  
+- Supports SQL for querying  
+- Ideal for transactional systems  
+Examples: PostgreSQL, MySQL, SQL Server
+
+---
+
+Slide 3: Data Warehouse vs. Data Lake
+| Type          | Structure       | Use Case                   |
+|---------------|------------------|-----------------------------|
+| Data Warehouse| Structured only | Reporting & Analytics       |
+| Data Lake     | Unstructured     | Raw Logs, Big Data Storage  |
+
+---
+
+Slide 4: Lakehouse Explained
+- Combines the best of both:  
+  - Flexibility of a lake  
+  - Performance of a warehouse  
+- Popular lakehouse platforms: Delta Lake, Snowflake
+
+---
+
+Slide 5: Where Storage Fits in a Pipeline
+- Source Systems ➡️ Lake ➡️ ETL ➡️ Warehouse ➡️ BI/ML  
+- Engineers decide where, when, and how data gets moved
+
+---
+
+Slide 6: Real-World Example
+Logistics company collects truck telemetry → Data Lake  
+Cleansed data sent to Warehouse → Used for delivery analytics
+
+---
+
+Slide 7: This Week’s Lab
+- Create a basic SQL schema  
+- Insert and query sample data  
+- Compare storage architectures  
+- Submit your reflections in Discord
+
+---
+
+Slide 8: Let's Talk
+Post in `#data-diva-academy`  
+Ask questions, share wins, help others
+
+---
+
+Slide 9: Your Data Engineering Foundation
+“Data is the new oil. Let’s build the pipelines.” 💡
+
+
