@@ -1,0 +1,66 @@
+📄 Week 1 Slide Deck – Intro to Data Engineering
+
+---
+
+Slide 1: Welcome to Week 1
+🎓 Data Diva Academy: Intro to Data Engineering  
+"Self-paced. Self-start. Community-powered."
+
+---
+
+Slide 2: What is Data Engineering?
+“Designing the systems that deliver clean, usable data.”  
+Diagram: Raw Data ➡️ ETL ➡️ Warehouse ➡️ Analyst/ML
+
+---
+
+Slide 3: Why Data Engineering Matters
+Every data-driven decision starts with engineering  
+Data = fuel | Data Engineers = builders of the engine
+
+---
+
+Slide 4: Core Responsibilities
+- ETL/ELT  
+- Pipelines  
+- Modeling  
+- Cloud tools  
+- Collaboration
+
+---
+
+Slide 5: Role Comparison
+
+| Role           | Focus          | Tools                 |
+|----------------|----------------|------------------------|
+| Data Engineer  | Infrastructure | Python, SQL, Airflow   |
+| Data Analyst   | Insights       | Power BI, SQL          |
+| Data Scientist | Prediction     | Python, Jupyter        |
+
+---
+
+Slide 6: Real-World Use Cases
+- Healthcare: Patient records → Cleaned → Analytics  
+- Retail: Purchase data → Forecasting  
+- Finance: Streaming fraud detection
+
+---
+
+Slide 7: Lab Assignment
+- Define the role in your own words  
+- Compare roles  
+- Research an industry use case  
+- Reflect on your own interest
+
+---
+
+Slide 8: Join the Conversation
+- Drop your assignment in `#data-diva-academy`  
+- Ask questions. Support each other. Stay consistent.
+
+---
+
+Slide 9: You Belong Here
+“Start where you are. Build what you dream.” 💜
+
+
