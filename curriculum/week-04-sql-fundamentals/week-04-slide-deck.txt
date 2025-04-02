@@ -1,0 +1,71 @@
+```
+📄 Week 4 Slide Deck – SQL Fundamentals
+
+---
+
+Slide 1: Welcome to Week 4  
+🎓 Data Diva Academy: SQL Fundamentals  
+“Speak the language of data.”
+
+---
+
+Slide 2: What is SQL?  
+- Structured Query Language  
+- Used to interact with relational databases  
+- Universal across data jobs
+
+---
+
+Slide 3: The Big 5 (CRUD)  
+- SELECT: Get data  
+- INSERT: Add data  
+- UPDATE: Change data  
+- DELETE: Remove data  
+- CREATE: Build tables
+
+---
+
+Slide 4: Sample Query
+
+```sql
+SELECT name, department
+FROM employees
+WHERE salary > 70000
+ORDER BY name ASC;
+```
+
+---
+
+Slide 5: Aggregates + Filtering
+
+- COUNT(), SUM(), AVG(), MIN(), MAX()  
+- WHERE, ORDER BY, LIMIT  
+- GROUP BY (bonus)
+
+---
+
+Slide 6: Lab Highlights
+
+- Create a table  
+- Insert data  
+- Run SELECT + filter queries  
+- Write reflections  
+- Push to GitHub
+
+---
+
+Slide 7: Practice Resources
+
+- DB Fiddle  
+- Programiz SQL Compiler  
+- SQLZoo  
+- GeeksforGeeks SQL Guide
+
+---
+
+Slide 8: Wrap Up  
+“You don’t just use data — you command it.”  
+Speak fluent SQL. Build with confidence 💡
+```
+
+
