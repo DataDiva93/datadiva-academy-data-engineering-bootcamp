@@ -1,0 +1,61 @@
+📄 Week 3 Slide Deck – Data Modeling Fundamentals
+
+---
+
+Slide 1: Welcome to Week 3  
+🎓 Data Diva Academy: Data Modeling Fundamentals  
+“Structure your data. Design for impact.”
+
+---
+
+Slide 2: What is Data Modeling?  
+- Blueprint for data storage  
+- Helps ensure consistency, scalability, and performance  
+- Used in everything from analytics to APIs
+
+---
+
+Slide 3: Types of Models  
+| Type           | Description                  |
+|----------------|------------------------------|
+| Conceptual     | Big-picture entity layout    |
+| Logical        | Relationships + attributes   |
+| Physical       | SQL, keys, datatypes         |
+
+---
+
+Slide 4: Why It Matters  
+- Reduces redundancy  
+- Improves query performance  
+- Makes collaboration easier across teams
+
+---
+
+Slide 5: Normalization Rules  
+- 1NF: Atomic columns  
+- 2NF: Every column depends on the full key  
+- 3NF: No transitive dependencies
+
+---
+
+Slide 6: E-Commerce Use Case  
+Tables: Products, Customers, Orders, Order_Items, Payments  
+Relationships:  
+- One customer → many orders  
+- One order → many products (via order_items)
+
+---
+
+Slide 7: Your Lab This Week  
+- Build an ERD  
+- Normalize to 3NF  
+- Translate to SQL  
+- Submit reflections + schema
+
+---
+
+Slide 8: You’re an Architect Now  
+“Data modeling is how we turn questions into answers.”  
+Keep designing. Keep leveling up 💡
+
+
